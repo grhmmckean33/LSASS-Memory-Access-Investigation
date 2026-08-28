@@ -6,7 +6,7 @@
 
 **Splunk + Sysmon investigation of credential-dumping detection logic**
 
-[![Live Case Study](https://img.shields.io/badge/Live%20Case%20Study-Open-22c55e?style=for-the-badge)](https://grhmmckean33.github.io/soc-lsass-memory-access-investigation/) [![PDF Report](https://img.shields.io/badge/PDF%20Report-View-dc2626?style=for-the-badge)](report/SOC_Investigation_Report_LSASS_Memory_Access.pdf)
+[![Live Case Study](https://img.shields.io/badge/Live%20Case%20Study-Open-22c55e?style=for-the-badge)](https://github.com/grhmmckean33/LSASS-Memory-Access-Investigation/blob/main/README.md) [![PDF Report](https://img.shields.io/badge/PDF%20Report-View-dc2626?style=for-the-badge)](report/SOC_Investigation_Report_LSASS_Memory_Access.pdf)
 
 </div>
 
