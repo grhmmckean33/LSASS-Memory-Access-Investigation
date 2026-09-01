@@ -20,7 +20,7 @@ A SOC investigation into a Sysmon Event ID 10 alert where Sysmon.exe accessed ls
 | Assessment | **Inconclusive - Likely Benign** |
 | Environment | Kerning City Dental (KCD) |
 | MITRE ATT&CK | T1003 - Credential Dumping (Sysmon rule tag) |
-| Full case study | **[View GitHub Pages site](https://grhmmckean33.github.io/soc-lsass-memory-access-investigation/)** |
+| Full case study | **[View GitHub Pages site](https://grhmmckean33.github.io/LSASS-Memory-Access-Investigation/)** |
 | Investigation report | **[Open PDF](report/SOC_Investigation_Report_LSASS_Memory_Access.pdf)** |
 
 ## Key findings
